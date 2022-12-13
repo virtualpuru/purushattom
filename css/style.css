@@ -78,7 +78,7 @@ a:focus {
 .top-bar {
     position: relative;
     height: 90px;
-    background: #fdbe33;
+    background: #e2b6e3;
 }
 
 .top-bar .logo {
@@ -174,7 +174,7 @@ a:focus {
 
 .nav-bar .navbar {
     height: 100%;
-    background: #030f27 !important;
+    background: #1554d1 !important;
 }
 
 .navbar-dark .navbar-nav .nav-link,
